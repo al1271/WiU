@@ -71,7 +71,7 @@ ul#list-nav li a:hover {
 
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
-	background: #f7f7f9;  /*changes color of the background of the table*/
+	background: #a2b3a1 ;  /*changes color of the background of the table*/
 	border-collapse: collapse;
 	width: 100%;
 }
@@ -80,7 +80,7 @@ tr{
 	border-color: inherit;
 }
 .odd{
-	background: #ececec; /*changes color of the stripes table*/
+	background: #19FFFF; /*changes color of the stripes table*/
 }
 th{
 	text-align: left;
